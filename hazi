@@ -1,0 +1,9 @@
+szam=0
+while szam<102:
+    if szam%2==1: #0 akkor paros 1 páratlan 
+        print(szam)
+    szam=szam+1
+print("vége")
+    
+
+
