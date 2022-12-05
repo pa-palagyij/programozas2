@@ -1,0 +1,30 @@
+# A PYTHON LISTA
+
+# A listák tobb elem tarolasa uszolgalbnak egyetlen változoban
+
+lista = ["alma","banan","cseresznye",]
+print(lista)
+
+lista =  ["alma","banan","cseresznye","alma","banan" ]
+print(len(lista))
+print(lista)
+print(lista[0])
+print(lista[1])
+print(lista[2])
+print(lista[3])
+print(lista[4])
+
+lista =  ["alma","banan","cseresznye"]
+print(len(lista)
+hossza  = len(lista)
+print(hossza)
+
+#A listakbérmelyik adattipud lehetunk:
+#Példa:
+lista1 = ["alma","banan","cseresznye"]
+lista2 = [1, 5,  7, 9, 3]
+lista3= [True,False,False]
+print(lista2)
+
+
+lista =list(("alma","banan","cseresznye"))
