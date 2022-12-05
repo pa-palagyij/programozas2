@@ -26,5 +26,7 @@ lista2 = [1, 5,  7, 9, 3]
 lista3= [True,False,False]
 print(lista2)
 
-
 lista =list(("alma","banan","cseresznye"))
+
+lista = ["alma","banan","cseresznye"]
+print(lista[-1])
