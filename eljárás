@@ -1,0 +1,23 @@
+#eljaras
+def menut_kiir(tipus):
+    '''
+    A menu megjelenitése a képernyőn
+    '''
+    if tipus == 2:
+        print('1.új adat bevitele')
+        print('2. adatok módositása/torlése')
+    if tipus == 3:
+         print('1.új adat bevitele')
+         print('2. adatok módositása/torlése')
+         print('3.kilépés a programbol')
+
+
+ #Eljárás hívása
+ menut_kiir(2)
+
+def koszont():
+    print('üdv a fedélzeten!')
+
+def koszont_nevel(nev):
+    print('szia' + nev ', üdv a fedélzeten!')
+    print(f"szia"+ {nev} ' + ', üdv a fedélzeten!')
